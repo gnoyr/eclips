@@ -1,4 +1,4 @@
-package basic;
+package Ex_0105;
 
 public class Ex_Array01 {
 

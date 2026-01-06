@@ -1,6 +1,6 @@
-`package basic;
+package Ex_0105;
 
-public class star {
+public class Star {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,8 +1,8 @@
-package basic;
+package Ex_0105;
 
 import java.util.Random;
 
-public class dice2 {
+public class Dice2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

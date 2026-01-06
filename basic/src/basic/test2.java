@@ -1,9 +1,9 @@
-package basic;
+package Ex_0105;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public abstract class test2 {
+public abstract class Test2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,6 +1,6 @@
-package basic;
+package Ex_0105;
 
-public class Ex_array02 {
+public class Ex_Array02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
