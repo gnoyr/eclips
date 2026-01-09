@@ -11,7 +11,13 @@ public class InfinityArray {
 //	}
 	
 	//A배열 + B배열?
-	int[] saveArr = new int[4];
+	
+	for(int i = 0; i < 10; i++) {
+		int[] saveArr = new int[3+i];
+
+	}
+	
+	saveArr[0] = arr[0];
 	
 	
 	//배열의 메모리 주소+1?
